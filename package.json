@@ -1,7 +1,7 @@
 {
 "author":"£ukasz Kruk",
-"name": "censorify_lkruk",
-"version":"1.0.1",
+"name": "censorify_lkruk_v2",
+"version":"1.0.2",
 "description":"Mój pierwszy modu³\ncenzuruje s³owa w tekœcie.",
 "dependencies":{},
 "engines":{

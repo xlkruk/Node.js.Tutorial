@@ -1,0 +1,16 @@
+{
+"author":"£ukasz Kruk",
+"name": "censorify",
+"version":"1.0.1",
+"description":"Mój pierwszy modu³\ncenzuruje s³owa w tekœcie.",
+"dependencies":{},
+"engines":{
+"node":"*"
+},
+"repository":{
+"type":"git",
+"url":"https://github.com/xlkruk/Node.js.Tutorial-censorify.git"
+},
+"keywords":["censor","word"]
+
+}
